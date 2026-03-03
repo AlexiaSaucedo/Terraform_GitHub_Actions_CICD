@@ -6,4 +6,4 @@ First Execution
 
 second demo
 
-New run of Pipeline
+New run of Pipeline ✨
